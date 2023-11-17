@@ -1,0 +1,7 @@
+{
+  "name": "@ddb-datalayer/test",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@ddb-datalayer/lib": "workspace:^"
+  }
+}

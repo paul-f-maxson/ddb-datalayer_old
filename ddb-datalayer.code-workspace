@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "packages/lib"
+    },
+    {
+      "path": "packages/test"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "ddb-datalayer/.yarn/sdks/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+  }
+}
