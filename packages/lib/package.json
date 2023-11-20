@@ -1,4 +1,10 @@
 {
   "name": "@ddb-datalayer/lib",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@types/lodash": "^4.14.201",
+    "lodash": "^4.17.21",
+    "type-fest": "^4.8.1",
+    "zod": "^3.22.4"
+  }
 }
