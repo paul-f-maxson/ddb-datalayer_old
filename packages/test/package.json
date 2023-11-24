@@ -2,6 +2,7 @@
   "name": "@ddb-datalayer/test",
   "packageManager": "yarn@4.0.2",
   "dependencies": {
-    "@ddb-datalayer/lib": "workspace:^"
+    "@ddb-datalayer/lib": "workspace:^",
+    "zod": "^3.22.4"
   }
 }

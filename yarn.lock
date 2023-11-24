@@ -28,6 +28,7 @@ __metadata:
   resolution: "@ddb-datalayer/test@workspace:packages/test"
   dependencies:
     "@ddb-datalayer/lib": "workspace:^"
+    zod: "npm:^3.22.4"
   languageName: unknown
   linkType: soft
 
